@@ -1,0 +1,27 @@
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Antares bot uwu.exe
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Antares bot uwu.deps.json
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Antares bot uwu.runtimeconfig.json
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Antares bot uwu.runtimeconfig.dev.json
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Antares bot uwu.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\ref\Antares bot uwu.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Antares bot uwu.pdb
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\obj\Debug\net5.0\Antares bot uwu.csprojAssemblyReference.cache
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\obj\Debug\net5.0\Antares bot uwu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\obj\Debug\net5.0\Antares bot uwu.AssemblyInfoInputs.cache
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\obj\Debug\net5.0\Antares bot uwu.AssemblyInfo.cs
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\obj\Debug\net5.0\Antares bot uwu.csproj.CoreCompileInputs.cache
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\obj\Debug\net5.0\Antares bot uwu.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\obj\Debug\net5.0\ref\Antares bot uwu.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\obj\Debug\net5.0\Antares bot uwu.pdb
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\obj\Debug\net5.0\Antares bot uwu.genruntimeconfig.cache
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Discord.Net.Commands.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Discord.Net.Core.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Discord.Net.Rest.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Discord.Net.Webhook.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\System.Interactive.Async.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\bin\Debug\net5.0\System.Linq.Async.dll
+D:\Coding stuff\Antares bot uwu\Antares bot uwu\obj\Debug\net5.0\Antares bot uwu.csproj.CopyComplete
