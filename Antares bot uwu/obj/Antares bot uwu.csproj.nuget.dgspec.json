@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding stuff\\Antares bot uwu\\Antares bot uwu\\Antares bot uwu.csproj": {}
+    "C:\\Users\\Jeremi\\source\\repos\\AntaresBot\\Antares bot uwu\\Antares bot uwu.csproj": {}
   },
   "projects": {
-    "D:\\Coding stuff\\Antares bot uwu\\Antares bot uwu\\Antares bot uwu.csproj": {
+    "C:\\Users\\Jeremi\\source\\repos\\AntaresBot\\Antares bot uwu\\Antares bot uwu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding stuff\\Antares bot uwu\\Antares bot uwu\\Antares bot uwu.csproj",
+        "projectUniqueName": "C:\\Users\\Jeremi\\source\\repos\\AntaresBot\\Antares bot uwu\\Antares bot uwu.csproj",
         "projectName": "Antares bot uwu",
-        "projectPath": "D:\\Coding stuff\\Antares bot uwu\\Antares bot uwu\\Antares bot uwu.csproj",
+        "projectPath": "C:\\Users\\Jeremi\\source\\repos\\AntaresBot\\Antares bot uwu\\Antares bot uwu.csproj",
         "packagesPath": "C:\\Users\\Jeremi\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding stuff\\Antares bot uwu\\Antares bot uwu\\obj\\",
+        "outputPath": "C:\\Users\\Jeremi\\source\\repos\\AntaresBot\\Antares bot uwu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jeremi\\AppData\\Roaming\\NuGet\\NuGet.Config",

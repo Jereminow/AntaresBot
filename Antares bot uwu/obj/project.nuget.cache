@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iNzc9gaPwKe9t6nRBLN7Voyiz5F/2mopu7EDm4QPclYqkHrPI45hyPZ1SeU+K2+7zjRZrAH3Kc9Hu2GYP04UxA==",
+  "dgSpecHash": "DMUV90HNiwPDxUdw9uYCCZdqY6PWrIFKSy2xZ4OSjlyJCQXheSD/8xGIYjTSw9hURiJXpcP3Oqf1oi07tohqrw==",
   "success": true,
-  "projectFilePath": "D:\\Coding stuff\\Antares bot uwu\\Antares bot uwu\\Antares bot uwu.csproj",
+  "projectFilePath": "C:\\Users\\Jeremi\\source\\repos\\AntaresBot\\Antares bot uwu\\Antares bot uwu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jeremi\\.nuget\\packages\\discord.net\\2.3.0\\discord.net.2.3.0.nupkg.sha512",
     "C:\\Users\\Jeremi\\.nuget\\packages\\discord.net.commands\\2.3.0\\discord.net.commands.2.3.0.nupkg.sha512",

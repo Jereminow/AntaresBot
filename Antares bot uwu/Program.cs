@@ -28,7 +28,7 @@ namespace Antares_bot_uwu
             _client.Log += Client_Log;
             // Bot Authentification init
             RegisterCommandsAsync();
-            var token = "ODE4MTAyNjcxODAxMzE5NDM0.YETLfA.nFnWQXqAH2KmhzacQhrW8LuSBmE";
+            var token = "ODE4MTAyNjcxODAxMzE5NDM0.YETLfA.yFrDFFKKp_LVJLiY6BfpTWypufg";
             await _client.LoginAsync(TokenType.Bot, token);
             await _client.StartAsync();
             await _commands.AddModulesAsync(Assembly.GetEntryAssembly(), _services);
