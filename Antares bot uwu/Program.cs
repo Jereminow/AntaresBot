@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Reflection;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Antares_bot_uwu
 {
@@ -28,7 +29,7 @@ namespace Antares_bot_uwu
             _client.Log += Client_Log;
             // Bot Authentification init
             RegisterCommandsAsync();
-            var token = "ODE4MTAyNjcxODAxMzE5NDM0.YETLfA.yFrDFFKKp_LVJLiY6BfpTWypufg";
+            var token = File.ReadAllText("TOKEN.txt");
             await _client.LoginAsync(TokenType.Bot, token);
             await _client.StartAsync();
             await _commands.AddModulesAsync(Assembly.GetEntryAssembly(), _services);
