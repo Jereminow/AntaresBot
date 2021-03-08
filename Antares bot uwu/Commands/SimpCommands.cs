@@ -48,8 +48,15 @@ namespace Antares_bot_uwu
         [Command("cute")]
         public async Task CuteCommand() {
             Random rand = new Random();
-            int randomN = rand.Next(100, 100000);
-            await ReplyAsync($"{Context.Message.Author.Username} is {randomN}% cute!");
+            int randomN = rand.Next(1000, 100000);
+            if (Context.Message.Author.Username.Contains("Skye") || Context.Message.Author.Username.Contains("Zeno")) {
+                await ReplyAsync($"{Context.Message.Author.Username} is ∞% cute!");
+            }
+            else
+            {
+                await ReplyAsync($"{Context.Message.Author.Username} is {randomN}% cute!");
+            }
+            
         }
         [Command("rapax")]
         public async Task RapaxCommand() {
@@ -61,6 +68,17 @@ namespace Antares_bot_uwu
             await ReplyAsync(message);
             await Context.Message.DeleteAsync();
         }
+        [Command("pat")]
+        public async Task PatCommand()
+        {
+            string message = "";
+            Random rand = new Random();
+            for (int i = 0; i < rand.Next(1, 30); i++) {
+                message = message + "pat" + " ";
+            }
+            await ReplyAsync(message);
+        }
+
 
         
     }
