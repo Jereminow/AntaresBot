@@ -34,14 +34,14 @@ namespace Antares_bot_uwu
         {
             if (Context.Message.Author.Username.Contains("Starless")) {
                 await ReplyAsync($"{Context.Message.Author.Username} is 100% weeb");
-            }else{
+            } else {
                 Random rand = new Random();
                 int randomPercent = rand.Next(0, 100);
                 await ReplyAsync($"{Context.Message.Author.Username} is {randomPercent}% weeb");
             }
         }
         [Command("silksong")]
-        public async Task SilksongCommand(){
+        public async Task SilksongCommand() {
             await ReplyAsync("https://www.youtube.com/watch?v=ib5AfwGmnZE");
         }
 
@@ -51,5 +51,17 @@ namespace Antares_bot_uwu
             int randomN = rand.Next(100, 100000);
             await ReplyAsync($"{Context.Message.Author.Username} is {randomN}% cute!");
         }
+        [Command("rapax")]
+        public async Task RapaxCommand() {
+            await ReplyAsync("Cute translator foxy friend ^^");
+        }
+        [Command("say")]
+        public async Task SayCommand([Remainder] string message) {
+            
+            await ReplyAsync(message);
+            await Context.Message.DeleteAsync();
+        }
+
+        
     }
 }
