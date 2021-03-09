@@ -85,6 +85,21 @@ namespace Antares_bot_uwu
         public async Task FizCommand() {
             await ReplyAsync(":wolf: Awesome wolf homie! ^^");
         }
-
+        [Command("pyru")]
+        public async Task PyruCommand() {
+            await ReplyAsync("Smart French gamer friend hon hon hon ^^");
+        }
+        [Command("aurora")]
+        public async Task AuroraCommand() {
+            await ReplyAsync("Cute Belgian friend who loves psychology :3");
+        }
+        [Command("mere")]
+        public async Task MereCommand() {
+            await ReplyAsync("One of the smartest, kindest, friendliest and cutest people in the world >w<");
+        }
+        [Command("antares")]
+        public async Task AntaresCommand() {
+            await ReplyAsync("Dumbass doe who created this bot");
+        }
     }
 }
